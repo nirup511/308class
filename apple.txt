@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-Steve Jobs loves nirup and he is no more.
-......
-=======
 Steve Jobs hates nirup and he is no more.
->>>>>>> c90ea717f50e9d4f465e5bf4ed8a7a637e438dbd
